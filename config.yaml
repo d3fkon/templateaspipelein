@@ -4,11 +4,11 @@
     git-repo: "https://github.com/d3fkon/templateaspipelein"
     approval: 
       approved-by: "d3fkon"
-      approval-date: 1564467203284
+      approval-date: 1564468109817
   job: 
     job-name: "d3fkonxtemplateaspipelein"
     config: 
-      pre-unit-test: "yes"
+      pre-unit-test: "no"
       post-unit-test: "yes"
       dev: "no"
       prod: "yes"
